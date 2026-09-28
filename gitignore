@@ -1,0 +1,12 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Personal face data - do not commit
+profiles/
+profiles.json
+trainer.yml
+
+# OS
+.DS_Store
